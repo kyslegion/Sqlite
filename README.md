@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Sqlite
 # Installation 
 # Créer 
@@ -36,3 +37,6 @@ Vérifier l'existence des tables avec
 ````
 
 ```
+=======
+# Sqlite
+>>>>>>> 5e61fb870bc9fddff7c23f3ec79d4f1bbe8d56a6
