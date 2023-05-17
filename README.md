@@ -32,7 +32,7 @@ Vérifier l'existence des tables avec
 ```
 
 # Insérer
-## Dans les Tables
+## Dans Tables
 ````
 INSERT INTO livres (ID, Nom, NomSansEspaces, Presentation, Description, Couverture, Prix, Genre, Accroche, Lien, Auteur, Edition, Quantite, Annee, NbPages, Ventes, Arriere, Dos)
 VALUES (1, 'Titre du livre', 'TitreSansEspaces', 'Présentation du livre', 'Description du livre', 'chemin/vers/couverture.jpg', 19.99, 'Genre du livre', 'Accroche du livre', 'https://lien-du-livre.com', 'Auteur du livre', 'Édition du livre', 10, 2023, 300, 100.0, 'arriere.jpg', 'dos.jpg');
