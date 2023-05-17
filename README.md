@@ -1,16 +1,11 @@
 # Sqlite
-
-
 # Installation 
-
-
 # Créer 
 ## Base de données
 Taper dans l'invite de commande et appuyer sur "Entrée" le texte suivant
 ```
 sqlite3 nomdelabasededonnée.db
 ```
-
 ## Tables
 ```
 CREATE TABLE `auteurs` (
@@ -33,4 +28,11 @@ Vérifier l'existence de Base de données avec
 Vérifier l'existence des tables avec 
 ```
 .tables
+```
+
+
+# Insérer
+## Dans les Tables
+````
+
 ```
